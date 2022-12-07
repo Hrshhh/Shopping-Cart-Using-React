@@ -1,0 +1,9 @@
+.shopping-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .shopping-list__fallback {
+    color: white;
+    text-align: center;
+  }

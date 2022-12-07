@@ -1,0 +1,28 @@
+.new-shop {
+    background-color: #a4d0ea;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  }
+  
+  .new-shop button {
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #a4d0ea;
+    background-color: #091dfb;
+    color: white;
+    border-radius: 8px;
+    margin-right: 1rem;
+  }
+  
+  .new-shop button:hover,
+  .new-shop button:active {
+    background-color: #091dfb;
+    border-color: #091dfb;
+  }
+  

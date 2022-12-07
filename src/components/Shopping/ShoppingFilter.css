@@ -1,0 +1,33 @@
+.shopping-filter {
+    
+    padding: 0 1rem;
+  }
+  
+  .shopping-filter__control {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1rem 0;
+  }
+  
+  .label-area{
+    color: rgb(251, 202, 6);
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .label-category{
+    color: rgb(28, 234, 13);
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .shopping-filter select {
+    font-size: 0.9rem;
+    padding: 0.5rem 3rem;
+    font-weight: bold;
+    border-radius: 6px;
+  }
